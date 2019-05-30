@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  course: MyString
+  id_num: 9.99
+  prel_ex: 9.99
+  mid_ex: 9.99
+  pref_ex: 9.99
+  fin_ex: MyString
+
+two:
+  name: MyString
+  course: MyString
+  id_num: 9.99
+  prel_ex: 9.99
+  mid_ex: 9.99
+  pref_ex: 9.99
+  fin_ex: MyString
